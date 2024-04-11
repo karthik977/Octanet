@@ -34,3 +34,44 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
   </body>
 </html>
+
+
+css:
+*{
+    font-family:Roboto;
+}
+.bg-container{
+    background-image:url("https://img.freepik.com/premium-photo/colorful-various-autumn-fallen-leaves-dark-black-background_1032986-82922.jpg?w=740");
+    background-size:cover;
+    height:100vh;
+}
+.anchor{
+    text-decoration:none;
+    color:orange
+}
+.nav{
+    background-color:black;
+    color:white;
+}
+.welcome{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:orange;
+    padding:12px;
+}
+.filling{
+    display:block;
+}
+.block{
+    display:block;
+}
+.content{
+    margin:80px;
+}
+.email{
+    height:40px;
+    width:250px;
+    border-radius:12px;
+}
+.main-heading{
+    color:green;
+}
